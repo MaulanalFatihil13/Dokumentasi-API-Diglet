@@ -3,7 +3,7 @@
 | Nama                      | NRP        |
 |---------------------------|------------|
 | Jovan Surya Bako          | 5027201013 |
-| Anisah Farah Fadhilah     | 5027201024 |
+| Anisah Farah Fadhilah     | 5027201023 |
 | Maulanal Fatihil A.M.     | 5027201031 | 
 <br/>
 
